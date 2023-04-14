@@ -8,7 +8,7 @@
 ## Table of Contents
 * [Description](#description)
 * [Technology](#technology)
-* [Functional Requirements](#technology)
+* [Functional Requirements](#functional_requirements)
 * [Folder](#folder)
 
 ## Description
